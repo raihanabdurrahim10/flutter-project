@@ -42,7 +42,7 @@ class _SplashScreenPageState extends State<SplashScreenPage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Image.network(
-            "https://i.postimg.cc/c195fn40/713a3272124cc57ba9e9fb7f59e9ab3b.gif",
+            "https://i.postimg.cc/vHQYR9p8/8fc32146cbf72ae17430e05ecc8b61be.gif",
             width: 200,
           ),
           Text(
